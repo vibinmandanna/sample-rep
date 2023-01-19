@@ -1,0 +1,8 @@
+.custom-badge {
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 12px;
+    min-width: 95px;
+    padding: 1px 10px;
+    text-align: left;
+}

@@ -1,0 +1,100 @@
+{
+  "Department": [
+    {
+      "name": "Orthopedics",
+      "status": "Inactive",
+      "id": 1
+    },
+    {
+      "name": "Cancer Department",
+      "status": "Active",
+      "id": 1
+    },
+    {
+      "name": "ENT Department",
+      "status": "Active",
+      "id": 1
+    }
+  ],
+  "Appointment": [
+    {
+      "Id": "APT001",
+      "pName": "Hannah grace",
+      "address": "United States, San Francisco",
+      "imglink": "http://localhost:4200/assets/img/patient5.jpg",
+      "Age": 35,
+      "dName": "Henry sayyed",
+      "dep": "Cardiology",
+      "date": "30 Dec 2018",
+      "time": "10.00am-11.00am",
+      "status": true,
+      "id": 5
+    },
+    {
+      "pName": "vibin",
+      "dep": "",
+      "Age": "",
+      "date": "",
+      "time": "12am",
+      "email": "",
+      "phno": "",
+      "dName": "taherim",
+      "address": "karnataka india",
+      "message": "",
+      "status": "option1",
+      "id": 16
+    }
+  ],
+  "doctor": [
+    {
+      "fname": "vibin",
+      "lname": "mandannaMB",
+      "speciality": "",
+      "email": "vibinmandanna390690@gmail.com",
+      "pass": "",
+      "cpass": "",
+      "dob": "",
+      "gender": "",
+      "Address": "Hattihole village and post",
+      "city": "madikeri",
+      "pcode": "571201",
+      "phone": "+919482236703",
+      "id": 7
+    }
+  ],
+  "patient": [
+    {
+      "pName": "jonny",
+      "age": "44",
+      "addr": "ny",
+      "phone": 35,
+      "email": "Henry Daniels@example.com",
+      "id": ""
+    },
+    {
+      "pname": "",
+      "lname": "",
+      "username": "",
+      "email": "",
+      "id": "Ma7DqN6"
+    },
+    {
+      "pname": "vibin",
+      "lname": "mandannaMB",
+      "username": "",
+      "email": "vibinmandanna390690@gmail.com",
+      "addr": "Hattihole village and post",
+      "phone": "+919482236703",
+      "id": "xxGm21o"
+    },
+    {
+      "pname": "maria",
+      "lname": "abc",
+      "username": "abc",
+      "email": "abc@example.com",
+      "addr": "Hattihole village and post",
+      "phone": "+919482236703",
+      "id": "R-xYUoO"
+    }
+  ]
+}
